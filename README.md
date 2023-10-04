@@ -1,4 +1,4 @@
-**# ML-Models-Implementation
+**# ML-Models-Implementation**
 📊 Diabetes Patient Classification using Machine Learning 🤖
 
 Welcome to my GitHub repository! I've implemented Stochastic and Batch Gradient Descent Algorithms, L1 & L2 Regularization, Logistic Regression, and Least Square Classification from scratch in Python, all applied to a diabetes patient dataset.
@@ -34,4 +34,3 @@ I've included relevant research papers, articles, and tutorials in the 'Resource
 If you have any questions or would like to collaborate on machine learning projects, please don't hesitate to contact me. You can connect with me here on GitHub or on LinkedIn (https://www.linkedin.com/in/imvishesh/).
 
 Thank you for visiting this repository, and I hope you find it helpful in your journey to explore the fascinating world of machine learning and healthcare. 🌐🤝
-**
